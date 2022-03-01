@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions and rules to be duly observed by each and every master-gunner entertained upon any ship, friggot, or vessel of war, which either now, or hereafter shall be in the service of his Majesty, / by order of his Royal Highness, James, Duke of York and Albany, Earl of Ulster, Lord High Admiral of England and Ireland, &amp;c.</title>
+            <author>James II, King of England, 1633-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03859</idno>
+            <idno type="STC">Wing J195A</idno>
+            <idno type="STC">ESTC R214486</idno>
+            <idno type="EEBO-CITATION">52612418</idno>
+            <idno type="OCLC">ocm 52612418</idno>
+            <idno type="VID">179480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179480)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions and rules to be duly observed by each and every master-gunner entertained upon any ship, friggot, or vessel of war, which either now, or hereafter shall be in the service of his Majesty, / by order of his Royal Highness, James, Duke of York and Albany, Earl of Ulster, Lord High Admiral of England and Ireland, &amp;c.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Dated and signed at end: Given under my hand and seal at Whitehall this twentieth day of April, 1663. James.</note>
+                  <note>With ms. notes throughout.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>For regulating the ceremony of honour in salutes -- Rules for preventing the unnecessary waste and expense of stores -- Rules for keeping and retiring the gunners accompts.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Gunners --  Handbooks, manuals, etc. --  17th century.</term>
+               <term>England and Wales. --  Royal Navy --  Regulations --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179480:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>INSTRUCTIONS and RULES To be duly obſerved by each and every Maſter-Gunner entertained upon any Ship, Friggot, or Veſſel of War, which either now, or hereafter ſhall be in the Service of His MAJESTY, by Order of His Royal Highneſs, <hi>JAMES,</hi> Duke of <hi>York</hi> and <hi>Albany,</hi> Earl of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> Lord High Admiral of ENGLAND and IRELAND, <hi>&amp;c.</hi>
+            </head>
+            <div type="part">
+               <head>For Regulating the Ceremony of Honour in Salutes.</head>
+               <p n="1">I. <seg rend="decorInit">T</seg>HAT no Commander of a Ship of the Second Rank, (being neither Admiral, Vice-Admiral, nor Rear-Admiral,) at his firſt coming and ſaluting his Admiral, give to his Admiral above Eleven Pieces, his Vice-Admiral Nine, and Rear-Admiral Seven; and the reſt proportionably leſs by Two, according to their Rank: And the Commander of any Ship is not to ſalute his Admiral after he hath done it once, except he hath been abſent from the Flag two Months.</p>
+               <p n="2">II. That when any Admiral of a Foreign Nation is met withal, he be anſwered by the like number by all the Ships that he ſalutes.</p>
+               <p>If a Vice-Admiral, then the Admiral to anſwer him with Two leſs, but the Vice-Admiral, Rear-Admiral, and as many of the reſt as he ſhall ſalute, are to give him the like number.</p>
+               <p>If a Rear-Admiral, then the Admiral and Vice-Admiral to anſwer him with Two leſs; but if he ſalute the Rear-Admiral, or any other Ship, they to return the like number.</p>
+               <p n="3">III. That in caſe a Ship of the Second Rank carry any Ambaſſadour, Duke, or Nobleman, he ſhall fire the Ordnance following, <hi>viz.</hi> at his coming on Board Eleven Guns, and at his Landing Fifteen.</p>
+               <p>When they ſhall carry a Knight, Lady, or Gentleman of quality, at their coming on Board Seven Guns, and at their Landing Eleven.</p>
+               <p>And the other Ships by Two leſs, according to their Ranks and number of Ordnance.</p>
+               <p n="4">IIII. That when any Man of War, or Merchant-Man of another Nation, or of our own, ſalute any of the King's Ships, he is to be anſwered by Two leſs.</p>
+               <p n="5">V. That when any of His Majeſties Ships ſhall have occaſion to ſalute any of the King's Caſtles, they are to give Two Guns leſs then they are directed to give when they ſalute their Admiral as aforeſaid.</p>
+            </div>
+            <div type="part">
+               <head>Rules for preventing the unneceſſary waſte and expence of Stores.</head>
+               <p n="1">I. After the Ordnance in any Ships ſhall be Laden fit for Service, the Powder and Shot not to be ſcaled oftner than once in ſix Months, unleſs upon extraordinary occaſion.</p>
+               <p n="2">II. That for the firſt Month the Men be exerciſed Twice every Week, to the end they may become good Fire-men, allowing ſix Shot to every Exerciſing.</p>
+               <p>That the ſecond Month they be exerciſed once every Week, and after that only once in two Months, allowing ſix Shot each time of Exerciſing.</p>
+               <p n="3">III. That no Gunner be allowed by his Captain upon his Account for the waſte of any Iron-work, Beds, Coins, Copper-Ladles, Sheet-Lead, Tan'd-Hides, or other natures of Stores not periſhable; but that the Gunner be obliged to make them good, unleſs it ſhall really appear to the Captain, and ſuch other Officers of the Ship as ſhall ſign to his Accompt, that the ſame were loſt or waſted in Service.</p>
+               <p n="4">IIII. That the Gunner and Armourer in each Ship be obliged diligently to look to the keeping-oyled, clean and well-fixed all Muſquets, Piſtols, Pikes, Blunderbuſſes, Swords, Halberts, Hatches, Brown-Bills, <hi>&amp;c.</hi> And to return the ſame in like condition as they were received (unleſs there be a ſufficient cauſe to the contrary:) And to that end, that no Armourer or Gun-Smith be taken into any Ship, but ſuch as ſhall be approved of by the Office of the Ordnance for ſufficient Workmen, and not to receive their Pay but upon Certificate from that Office, that they have well diſcharged their Duty.</p>
+               <p n="5">V. That after an Engagement, an exact Survey be taken by the Captain and principal Officers of the Ship (if abſent from the Flag, but if with the Flag, by ſuch as the Commander in Chief ſhall appoint) of all the Powder under the Gunner, whether in Barrels, Cartridges, Guns laden, Collers of Bandeliers, or otherwiſe, and that the ſaid Survey be affirmed under his or their Hands, that from thence the expence of Powder during the Fight may be aſcertained.</p>
+               <p n="6">VI. That every Commander and Gunner do certifie unto the Maſter of His Majeſties Ordnance from time to time what Ordnance, Powder, Shot, or other Gunner-Stores ſhall come into his or their charge out of any Ship taken as prize, and that the ſame be charged by the Gunner upon his Accompt, and atteſted by the Commander and other principal Officers under their Hands.</p>
+               <p n="7">VII. That if any Gunner ſhall receive any Additional ſupplies unto his Stores from any Fort or Garriſon belonging to His Majeſty at Home or Abroad, or from any Veſſel or Ship, by order from the Admiral or Commander in Chief of a Squadron or otherwiſe, he be obliged to give his Hand to the Perſon or Perſons from whence he ſhall receive the ſaid Stores, and forthwith to advertize the Maſter of His Majeſties Ordnance by Letter, expreſly ſetting down therein the Name of the Perſon, and place from whence, and the quantity and quality of the Stores ſo received, and forthwith charge the ſame upon his Accompt.</p>
+               <p n="8">VIII. That in caſe of the death of any Gunner at Sea, the Commander of the Ship do immediately cauſe a Remain of all his Stores to be taken; atteſted under his own, and other the principal Officers of the Ships Hands, and tranſmit the ſame by the firſt opportunity unto the Maſter of His Majeſties Ordnance to remain in the Office of the Ordnance, as a charge upon the ſucceeding Gunner in paſſing his Accompts.</p>
+            </div>
+            <div type="part">
+               <head>Rules for Keeping and Re<gap reason="illegible: in crease" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ring the Gunners Accompts.</head>
+               <p n="1">I. That the Captain or Commander do every Week, or at leaſt every M<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h, call his Gunner to Accompt, and Weekly or Monthly ſign to the ſame, which is likewiſe to be atteſted by the other principal Officers of the Ship, and nothing to b<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eved of contrary to the foregoing Articles; And if the Captain or Commander ſhall neglect to call for the Gunners Accompts as aforeſaid, the Gunner is then to give <gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n his Accompts unto him Weekly or Monthly at the fartheſt.</p>
+               <p n="2">II. That every Captain upon his approach into Harbour do ſend up timely notic<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereof, that ſo Warrant may be ſpeedily directed to the Maſter of the Ordnance, that the Remain may be taken as ſoon as the Ship ſhall come into Harbour, and that before he leave his Ship he cauſe the Powder-Room to be made faſt and lock'd up, and other the Gunners Stores to be ſecured until the Remain be taken, and that the Gunner before his Remain be taken, do deliver to the Officer or Clerk appointed to take the ſaid Remain, his Accompt ſigned as aforeſaid, for the better preventing any ſurreptio<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, additions, or alterations for the after-levelling his Expence with the Remain.</p>
+               <p n="3">III. That every Gunner be obliged to take care that the Guns and Carriages left o<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Board his Ship be preſerved without any Embezelment of Trucks, Beds, Coynes, Extrees, Cap-ſquares, Ring-bolts, or other Iron-work, under the penalty of Repa<gap reason="illegible: in crease" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring them at his own charge, and putting them into a good condition as when they were firſt iſſued forth, reaſonable wear only excepted.</p>
+            </div>
+            <closer>
+               <dateline>Given under my Hand and Seal at <hi>White-hall,</hi> 
+                  <date>this Twentieth day of <hi>April,</hi> 1663</date>
+               </dateline>
+               <signed>JAMES.</signed>
+            </closer>
+            <trailer>To Sir <hi>THOMAS CHICHELEY,</hi> Knight, Maſter General of His Majeſties Ordnance.</trailer>
+         </div>
+         <div type="postscript">
+            <p>WHereas it hath pleaſed his Royal Highneſs the Duke of York, <hi>Lord High Admiral of</hi> England, to make and ordain the ſeveral Rules and Conſtitutions abovementioned for the better management of the Stor<gap reason="illegible: in crease" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of War relating to His Majeſties Navy; Theſe are therefore in purſuance of his Royal Highneſs ſaid Order to me directed, to will and require <gap reason="illegible: in crease" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou to take effectual care, that the ſame be by you duly obſerved from time to time in each particular relating to the ſervice under your charge, to the int<gap reason="illegible: in crease" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> a true Accompt may be rendred thereof at the end of your Voyage; And hereof you are not to fail, as you will anſwer the Contrary at your Peril.</p>
+            <trailer>To <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Maſter Gunner of His Majeſties <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
